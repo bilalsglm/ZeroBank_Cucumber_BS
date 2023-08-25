@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
                   "html:target/default_html-repors.html"
         },
         dryRun = false,
-        tags = "@positiveLogin"
+        tags = "@wip"
 )
 public class CukesRunner {
 
